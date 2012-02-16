@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectEuler.Tests", "tests\ProjectEuler.Tests\ProjectEuler.Tests.csproj", "{6E98E689-2B85-443F-AB3D-CA930E400162}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectEuler", "ProjectEuler\ProjectEuler.csproj", "{D4DF2418-92DB-431B-B57B-897CDA9812ED}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = ProjectEuler.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E98E689-2B85-443F-AB3D-CA930E400162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E98E689-2B85-443F-AB3D-CA930E400162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E98E689-2B85-443F-AB3D-CA930E400162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E98E689-2B85-443F-AB3D-CA930E400162}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4DF2418-92DB-431B-B57B-897CDA9812ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4DF2418-92DB-431B-B57B-897CDA9812ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4DF2418-92DB-431B-B57B-897CDA9812ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4DF2418-92DB-431B-B57B-897CDA9812ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+# ReSharper meta directory
+_ReSharper*
+
+#File Types
+*.suo
+*.user
+BuildLog.txt
+TestResults.xml
+
+# Build Folders (you can keep bin if you'd like, to store dlls and pdbs)
+bin
+obj
+
+# mstest test results
+TestResults
