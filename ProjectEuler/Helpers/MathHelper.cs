@@ -18,12 +18,23 @@ namespace ProjectEuler.Helpers
 
 		}
 
+		public static int MultiplyDigits(string value)
+		{
+			int product = 1;
+			char[] digits = value.ToCharArray();
 
-		public static int SumDigits(BigInteger value)
+			foreach (char digit in digits)
+			{
+				product *= Int32.Parse(digit.ToString());
+			}
+
+			return product;
+		}
+
+		public static int SumDigits(string value)
 		{
 			int sum = 0;
-			string strValue = value.ToString();
-			char[] digits = strValue.ToCharArray();
+			char[] digits = value.ToCharArray();
 
 			foreach (char digit in digits)
 			{
@@ -31,6 +42,12 @@ namespace ProjectEuler.Helpers
 			}
 
 			return sum;
+		}
+
+
+		public static int SumDigits(BigInteger value)
+		{
+			return SumDigits(value.ToString());
 		}
 
 		public static bool IsPrime(long number)
