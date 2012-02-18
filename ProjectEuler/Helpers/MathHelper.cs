@@ -7,6 +7,12 @@ namespace ProjectEuler.Helpers
 	public static class MathHelper
 	{
 
+		public static bool IsInteger(this string value)
+		{
+			int number;
+			return int.TryParse(value, out number);
+		}
+
 		public static BigInteger Factorial(int factorial)
 		{
 			if (factorial == 1)
