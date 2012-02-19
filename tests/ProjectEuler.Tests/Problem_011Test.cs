@@ -8,7 +8,7 @@ namespace ProjectEuler.Tests
 	{
 
 		[Test]
-		public void Test()
+		public void Find_The_Largest_Product_Of_4_Consecutive_Numbers_On_A_20_By_20_Grid()
 		{
 
 			string source = @"08 02 22 97 38 15 00 40 00 75 04 05 07 78 52 12 50 77 91 08
@@ -35,7 +35,7 @@ namespace ProjectEuler.Tests
 			var problem = new Problem_011();
 			var result = problem.CalculateSumOfConsecutiveNumbers(source, 4);
 
-			Assert.That(result, Is.EqualTo(12));
+			Assert.That(result, Is.EqualTo(70600674));
 
 		}
 
