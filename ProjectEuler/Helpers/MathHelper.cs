@@ -72,6 +72,21 @@ namespace ProjectEuler.Helpers
 
 		}
 
+		public static List<long> GetPrimeFactors(long number)
+		{
+
+			if(number == 1)
+				return new List<long> {1};
+
+			List<long> primes = new List<long>();
+
+			for (int candidate = 2; number > 1; candidate++)
+				for (; number % candidate == 0; number /= candidate)
+					primes.Add(candidate);
+
+			return primes;
+		}
+
 
 		public static IEnumerable<long> GetPrimeNumbersUnderNumber(long number)
 		{
