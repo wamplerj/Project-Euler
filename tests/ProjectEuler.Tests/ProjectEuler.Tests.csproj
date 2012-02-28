@@ -75,6 +75,7 @@
     <Compile Include="Problem_014Test.cs" />
     <Compile Include="Problem_015Tests.cs" />
     <Compile Include="Problem_016Test.cs" />
+    <Compile Include="Problem_017Tests.cs" />
     <Compile Include="Problem_019Test.cs" />
     <Compile Include="Problem_020Test.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

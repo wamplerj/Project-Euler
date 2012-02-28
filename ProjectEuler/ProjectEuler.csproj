@@ -59,6 +59,7 @@
     <Compile Include="Problem_014.cs" />
     <Compile Include="Problem_015.cs" />
     <Compile Include="Problem_016.cs" />
+    <Compile Include="Problem_017.cs" />
     <Compile Include="Problem_019.cs" />
     <Compile Include="Problem_020.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
