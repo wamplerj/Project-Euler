@@ -73,12 +73,13 @@
     <Compile Include="Problem_012Test.cs" />
     <Compile Include="Problem_013Test.cs" />
     <Compile Include="Problem_014Test.cs" />
-    <Compile Include="Problem_015Tests.cs" />
+    <Compile Include="Problem_015Test.cs" />
     <Compile Include="Problem_016Test.cs" />
     <Compile Include="Problem_017Test.cs" />
     <Compile Include="Problem_018Test.cs" />
     <Compile Include="Problem_019Test.cs" />
     <Compile Include="Problem_020Test.cs" />
+    <Compile Include="Problem_067Test.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StringHelpersTest.cs" />
   </ItemGroup>
