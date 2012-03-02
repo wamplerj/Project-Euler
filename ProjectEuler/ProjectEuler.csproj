@@ -64,6 +64,7 @@
     <Compile Include="Problem_019.cs" />
     <Compile Include="Problem_020.cs" />
     <Compile Include="Problem_021.cs" />
+    <Compile Include="Problem_022.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -71,6 +72,9 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="Data\018.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\022.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="Data\067.txt">
