@@ -60,9 +60,18 @@
     <Compile Include="Problem_015.cs" />
     <Compile Include="Problem_016.cs" />
     <Compile Include="Problem_017.cs" />
+    <Compile Include="Problem_018.cs" />
     <Compile Include="Problem_019.cs" />
     <Compile Include="Problem_020.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Data\018-sample.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\018.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -71,11 +71,12 @@
     <Compile Include="Problem_010Test.cs" />
     <Compile Include="Problem_011Test.cs" />
     <Compile Include="Problem_012Test.cs" />
-    <Compile Include="Problem_013Tests.cs" />
+    <Compile Include="Problem_013Test.cs" />
     <Compile Include="Problem_014Test.cs" />
     <Compile Include="Problem_015Tests.cs" />
     <Compile Include="Problem_016Test.cs" />
-    <Compile Include="Problem_017Tests.cs" />
+    <Compile Include="Problem_017Test.cs" />
+    <Compile Include="Problem_018Test.cs" />
     <Compile Include="Problem_019Test.cs" />
     <Compile Include="Problem_020Test.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
