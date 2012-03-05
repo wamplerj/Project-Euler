@@ -41,31 +41,33 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="001-050\Problem_023.cs" />
+    <Compile Include="DivisorSumCalculator.cs" />
     <Compile Include="Helpers\MathHelper.cs" />
     <Compile Include="Helpers\StringHelper.cs" />
-    <Compile Include="Problem_001.cs" />
-    <Compile Include="Problem_002.cs" />
-    <Compile Include="Problem_003.cs" />
-    <Compile Include="Problem_004.cs" />
-    <Compile Include="Problem_005.cs" />
-    <Compile Include="Problem_006.cs" />
-    <Compile Include="Problem_007.cs" />
-    <Compile Include="Problem_008.cs" />
-    <Compile Include="Problem_009.cs" />
-    <Compile Include="Problem_010.cs" />
-    <Compile Include="Problem_011.cs" />
-    <Compile Include="Problem_012.cs" />
-    <Compile Include="Problem_013.cs" />
-    <Compile Include="Problem_014.cs" />
-    <Compile Include="Problem_015.cs" />
-    <Compile Include="Problem_016.cs" />
-    <Compile Include="Problem_017.cs" />
-    <Compile Include="Problem_018.cs" />
-    <Compile Include="Problem_019.cs" />
-    <Compile Include="Problem_020.cs" />
-    <Compile Include="Problem_021.cs" />
-    <Compile Include="Problem_022.cs" />
-    <Compile Include="Problem_025.cs" />
+    <Compile Include="001-050\Problem_001.cs" />
+    <Compile Include="001-050\Problem_002.cs" />
+    <Compile Include="001-050\Problem_003.cs" />
+    <Compile Include="001-050\Problem_004.cs" />
+    <Compile Include="001-050\Problem_005.cs" />
+    <Compile Include="001-050\Problem_006.cs" />
+    <Compile Include="001-050\Problem_007.cs" />
+    <Compile Include="001-050\Problem_008.cs" />
+    <Compile Include="001-050\Problem_009.cs" />
+    <Compile Include="001-050\Problem_010.cs" />
+    <Compile Include="001-050\Problem_011.cs" />
+    <Compile Include="001-050\Problem_012.cs" />
+    <Compile Include="001-050\Problem_013.cs" />
+    <Compile Include="001-050\Problem_014.cs" />
+    <Compile Include="001-050\Problem_015.cs" />
+    <Compile Include="001-050\Problem_016.cs" />
+    <Compile Include="001-050\Problem_017.cs" />
+    <Compile Include="001-050\Problem_018.cs" />
+    <Compile Include="001-050\Problem_019.cs" />
+    <Compile Include="001-050\Problem_020.cs" />
+    <Compile Include="001-050\Problem_021.cs" />
+    <Compile Include="001-050\Problem_022.cs" />
+    <Compile Include="001-050\Problem_025.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
