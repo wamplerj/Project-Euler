@@ -84,6 +84,7 @@
     <Compile Include="001-050\Problem_023Test.cs" />
     <Compile Include="001-050\Problem_024Test.cs" />
     <Compile Include="001-050\Problem_025Test.cs" />
+    <Compile Include="001-050\Problem_026Test.cs" />
     <Compile Include="051-100\Problem_067Test.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StringHelpersTest.cs" />
