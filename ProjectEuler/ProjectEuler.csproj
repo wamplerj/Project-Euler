@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="001-050\Problem_023.cs" />
     <Compile Include="001-050\Problem_024.cs" />
+    <Compile Include="001-050\Problem_026.cs" />
     <Compile Include="DivisorSumCalculator.cs" />
     <Compile Include="Helpers\MathHelper.cs" />
     <Compile Include="Helpers\StringHelper.cs" />
